@@ -48,7 +48,7 @@ The environment includes:
 To run the course materials on your local machine:
 
 1. **Install Conda**
-   - Download [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
+   - Download [Miniconda](https://www.anaconda.com/docs/getting-started/miniconda/install)
    - Follow the installation instructions for your operating system
 
 2. **Activate Conda Environment**
